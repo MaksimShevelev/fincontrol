@@ -457,6 +457,6 @@
     "name": "Fincontrol",
     "prefer_related_applications": false,
     "scope" : "/",
-    "start_url" : "http://127.0.0.1:5500/",
+    "start_url" : "https://maksimshevelev.github.io/fincontrol/",
     "form_factor" : "any"
 }
